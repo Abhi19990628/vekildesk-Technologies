@@ -1,5 +1,7 @@
 # Technical Assessment Test
 
+
+
 Welcome to the Technical Assessment Test repository! This project contains solutions to a series of programming tasks that assess proficiency in Python and the Django framework.
 
 ## Table of Contents
